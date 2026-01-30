@@ -1,0 +1,8 @@
+transformers==4.34.0
+opencv-python==4.8.1.78
+Pillow==9.5.0
+numpy==1.26.2
+matplotlib==3.8.0
+requests==2.31.0
+lightning==2.0.0
+manim==0.19.1

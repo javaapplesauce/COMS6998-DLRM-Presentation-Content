@@ -1,0 +1,19 @@
+# Core ML/runtime
+torch
+torchvision
+
+# Hugging Face
+transformers
+
+# Video / image processing
+opencv-python
+Pillow
+numpy
+matplotlib
+requests
+
+# Lightning for batched inference / orchestration
+lightning
+
+# Optional / extras
+manim

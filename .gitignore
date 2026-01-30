@@ -1,0 +1,25 @@
+# Ignore generated media and large outputs
+/media/
+
+# Ignore video and image outputs everywhere
+*.mp4
+*.MP4
+*.png
+*.PNG
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# IDEs and macOS
+.vscode/
+.idea/
+.DS_Store
+
+# Hugging Face cache (optional)
+# ~/.cache/huggingface/
